@@ -1,0 +1,10 @@
+# Byte-compiled / virtual env
+__pycache__/
+*.py[cod]
+env/
+data/train/*
+data/test/*
+*.egg-info/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
